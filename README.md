@@ -1,4 +1,4 @@
-# Project Title
+# HITS Algorithm
 
 Implementation of HITS Algorithm
 
